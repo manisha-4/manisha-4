@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **mobile application development**
 
-- 💬 Ask me about **react,flutter,sql,mongodb**
+- 💬 Ask me about **Data structure and algorithm ,c++,c**
 
 - 📫 How to reach me **https://www.linkedin.com/in/manisha-kumari-sah-78a10a178/**
 
